@@ -1,3 +1,5 @@
+The Cart functionality for VKYD (https://vkyd.herokuapp.com/)
+
 clone the website
 
 npm i --save
