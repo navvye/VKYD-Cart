@@ -1,4 +1,4 @@
-clone the website 
-npm i
+clone the website
+npm i --save
 npm start 
-Voila , open it on localhost:3000
+open it on localhost:3000
